@@ -12,13 +12,13 @@
     "rename",
     "through2"
   ],
-   "devDependencies": {
-     "through2": "^2.0.3"
-   },
   "author": "carl woodhouse",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/carlwoodhouse/gulp-rename-through2/issues"
   },
-  "homepage": "https://github.com/carlwoodhouse/gulp-rename-through2#readme"
+  "homepage": "https://github.com/carlwoodhouse/gulp-rename-through2#readme",
+  "devDependencies": {
+     "through2": "^2.0.3"
+   }
 }
