@@ -1,6 +1,6 @@
 {
   "name": "gulp-rename-through2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "rename gulp streams wrapped in through2 for no stream noise",
   "main": "index.js",
   "repository": {
