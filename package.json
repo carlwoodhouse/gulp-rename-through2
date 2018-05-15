@@ -1,0 +1,24 @@
+{
+  "name": "gulp-rename-through2",
+  "version": "1.0.0",
+  "description": "rename gulp streams wrapped in through2 for no stream noise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlwoodhouse/gulp-rename-through2.git"
+  },
+  "keywords": [
+    "streams",
+    "rename",
+    "through2"
+  ],
+  "author": "carl woodhouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlwoodhouse/gulp-rename-through2/issues"
+  },
+  "homepage": "https://github.com/carlwoodhouse/gulp-rename-through2#readme"
+}
